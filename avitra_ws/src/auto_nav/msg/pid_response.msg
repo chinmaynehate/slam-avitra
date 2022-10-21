@@ -1,0 +1,15 @@
+string name
+float32 duty_cycle
+float32 prev_duty_cycle
+float32 actual_duty_cycle
+float32 desr_rpm
+float32 curr_rpm
+float32 prev_rpm
+float32 err
+float32 prev_err
+float32 cum_err
+float32 pTerm
+float32 dTerm
+float32 iTerm
+float32 iTerm_limit
+float32 alpha
