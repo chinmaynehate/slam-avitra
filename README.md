@@ -102,6 +102,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/chinmayneh
 
 * [AVITRA : 2019-2020](https://github.com/SRA-AVITRA)
 * [AVITRA : 2018-2019](https://github.com/atharvkhadtare/fyp_ws)
+* [AVITRA : 2017-2018](https://github.com/sachin0x18/Imitation)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
